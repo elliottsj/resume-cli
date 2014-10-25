@@ -26,7 +26,7 @@
     "jsonlint": "^1.6.0",
     "open": "0.0.5",
     "read": "^1.0.5",
-    "resume-schema": "latest",
+    "resume-schema": "elliottsj/resume-schema#custom-date-validator",
     "resume-to-html": "latest",
     "resume-to-text": "latest",
     "superagent": "^0.18.0",
